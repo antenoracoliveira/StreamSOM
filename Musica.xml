@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfMusica xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Musica>
+    <Id>1</Id>
+    <Nome>Song 1</Nome>
+    <Duracao>3.5</Duracao>
+    <IdPlaylist>1</IdPlaylist>
+  </Musica>
+  <Musica>
+    <Id>2</Id>
+    <Nome>Song 2</Nome>
+    <Duracao>4.2</Duracao>
+    <IdPlaylist>1</IdPlaylist>
+  </Musica>
+  <Musica>
+    <Id>3</Id>
+    <Nome>Song 3</Nome>
+    <Duracao>5.1</Duracao>
+    <IdPlaylist>1</IdPlaylist>
+  </Musica>
+  <Musica>
+    <Id>4</Id>
+    <Nome>Song 4</Nome>
+    <Duracao>7.2</Duracao>
+    <IdPlaylist>2</IdPlaylist>
+  </Musica>
+  <Musica>
+    <Id>1</Id>
+    <Nome>Song 1</Nome>
+    <Duracao>3.5</Duracao>
+    <IdPlaylist>3</IdPlaylist>
+  </Musica>
+  <Musica>
+    <Id>2</Id>
+    <Nome>Song 2</Nome>
+    <Duracao>4.2</Duracao>
+    <IdPlaylist>3</IdPlaylist>
+  </Musica>
+  <Musica>
+    <Id>3</Id>
+    <Nome>Song 3</Nome>
+    <Duracao>5.1</Duracao>
+    <IdPlaylist>3</IdPlaylist>
+  </Musica>
+  <Musica>
+    <Id>5</Id>
+    <Nome>Ok</Nome>
+    <Duracao>1</Duracao>
+    <IdPlaylist>1</IdPlaylist>
+  </Musica>
+</ArrayOfMusica>
